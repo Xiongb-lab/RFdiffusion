@@ -11,7 +11,7 @@
 
 ## Description
 
-RFdiffusion is an open source method for structure generation, with or without conditional information (a motif, target etc). It can perform a whole range of protein design challenges as we have outlined in [the RFdiffusion paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1).
+RFdiffusion is an open source method for structure generation, with or without conditional information (a motif, target etc). It can perform a whole range of protein design challenges as we have outlined in [this is the RFdiffusion paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1).
 
 **Things Diffusion can do**
 - Motif Scaffolding
